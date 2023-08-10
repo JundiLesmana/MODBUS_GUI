@@ -7,7 +7,6 @@
 #install -> pip install easymodbus
 
 #PLC simulator dengan Speed PLC
-#download di channel EldikonFulmatic7
 
 #address ip : 127.0.0.1 adalah address local host.
 
@@ -50,7 +49,7 @@ bg = 'powder blue'
 fgLbl = 'black'
 geo=str(lebar)+'x'+str(tinggi)
 root.geometry(geo)
-root.title("pt. Eldikon Engineering")
+root.title("JundiLesmana")
 root.config(bg=bg)
 
 #tampilan data plc
